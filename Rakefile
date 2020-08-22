@@ -7,8 +7,8 @@ end
 
 
 desc 'outputs hello to the terminal'
-task :hela do
-  puts "hela de Rake!"
+task :hola do
+  puts "hola de Rake!"
 end
 
 # task :environment do
